@@ -192,3 +192,65 @@
         "end": 504
     }
 ]
+
+[
+    {
+        "row": 0,
+        "firstCol": 4,
+        "lastCol": 4,
+        "isStart": true,
+        "isEnd": true,
+        "eventRange": {
+            "def": {
+                "title": "2",
+                "groupId": "",
+                "publicId": "",
+                "url": "",
+                "recurringDef": null,
+                "defId": "16",
+                "sourceId": "12",
+                "allDay": true,
+                "hasEnd": false,
+                "ui": {
+                    "display": null,
+                    "constraints": [],
+                    "overlap": null,
+                    "allows": [],
+                    "backgroundColor": "",
+                    "borderColor": "",
+                    "textColor": "",
+                    "classNames": []
+                },
+                "extendedProps": {}
+            },
+            "ui": {
+                "display": "auto",
+                "startEditable": true,
+                "durationEditable": true,
+                "constraints": [],
+                "overlap": null,
+                "allows": [],
+                "backgroundColor": "",
+                "borderColor": "",
+                "textColor": "",
+                "classNames": []
+            },
+            "instance": {
+                "instanceId": "17",
+                "defId": "16",
+                "range": {
+                    "start": "2023-01-12T00:00:00.000Z",
+                    "end": "2023-01-13T00:00:00.000Z"
+                },
+                "forcedStartTzo": null,
+                "forcedEndTzo": null
+            },
+            "range": {
+                "start": "2023-01-12T00:00:00.000Z",
+                "end": "2023-01-13T00:00:00.000Z"
+            },
+            "isStart": true,
+            "isEnd": true
+        }
+    }
+]
